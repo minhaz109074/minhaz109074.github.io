@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A collection of software engineering and research projects spanning enterprise backend systems, AI/ML applications, and computer vision research.
 nav: true
-nav_order: 3
-display_categories: [work, fun]
+nav_order: 2
+display_categories: [Software Engineering, Research & ML]
 horizontal: false
 ---
 
