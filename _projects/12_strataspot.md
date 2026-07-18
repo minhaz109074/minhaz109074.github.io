@@ -13,7 +13,7 @@ category: Software Engineering
 
 ### Overview
 
-Maintained **StrataSpot**, one of Astha IT's (now AIT Inc's) longest-running and most successful residential strata management projects, built on the **nopCommerce** architecture for Australian clients.
+Maintained **StrataSpot**, one of AIT Inc's longest-running and most successful residential strata management projects, built on the **nopCommerce** architecture for Australian clients.
 
 ### Key Contributions
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: A collection of software engineering and research projects spanning enterprise backend systems, AI/ML applications, and computer vision research.
 nav: true
