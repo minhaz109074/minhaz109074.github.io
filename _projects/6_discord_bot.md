@@ -2,7 +2,7 @@
 layout: page
 title: AI Search & QA Discord Bot
 description: Discord bot for image similarity search, text summarization, and question answering powered by Ollama and pgvector.
-img: assets/img/11.jpg
+# img: assets/img/11.jpg
 importance: 6
 category: Research & ML
 ---

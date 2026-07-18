@@ -2,7 +2,7 @@
 layout: page
 title: Payra Port SAMS - Access Management System
 description: Employee and visitor access management system for the Payra Port Authority with biometric integration and multi-channel notifications.
-img: assets/img/9.jpg
+# img: assets/img/9.jpg
 importance: 4
 category: Software Engineering
 ---

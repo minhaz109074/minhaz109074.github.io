@@ -2,7 +2,7 @@
 layout: page
 title: DocIT - Healthcare Learning Management System
 description: Cloud-based multi-tenant LMS for healthcare organizations, built on 13 microservices.
-img: assets/img/3.jpg
+# img: assets/img/3.jpg
 importance: 10
 category: Software Engineering
 ---

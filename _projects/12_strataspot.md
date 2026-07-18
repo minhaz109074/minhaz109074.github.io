@@ -2,7 +2,7 @@
 layout: page
 title: StrataSpot - Residential Strata Management
 description: Maintained and enhanced a residential strata management platform built on nopCommerce for Australian clients.
-img: assets/img/5.jpg
+# img: assets/img/5.jpg
 importance: 12
 category: Software Engineering
 ---
@@ -13,7 +13,7 @@ category: Software Engineering
 
 ### Overview
 
-Maintained **StrataSpot**, one of Astha IT's (now AIT Inc's) longest-running and most successful residential strata management projects, built on the **nopCommerce** architecture for Australian clients.
+Maintained **StrataSpot**, one of AIT Inc's longest-running and most successful residential strata management projects, built on the **nopCommerce** architecture for Australian clients.
 
 ### Key Contributions
 

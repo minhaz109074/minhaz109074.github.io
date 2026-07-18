@@ -2,7 +2,7 @@
 layout: page
 title: Custom Face Mask Detectors (YOLO & SSD)
 description: YOLO and SSD object detection architectures implemented from scratch for real-time face mask detection.
-img: assets/img/12.jpg
+# img: assets/img/12.jpg
 importance: 7
 category: Research & ML
 ---

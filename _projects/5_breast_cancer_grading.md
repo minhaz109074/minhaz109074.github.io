@@ -2,7 +2,7 @@
 layout: page
 title: Automated Breast Cancer Grading (IDC)
 description: Histopathology classification pipeline using Fisher Vector encoding and ResNet-18 for Invasive Ductal Carcinoma grading.
-img: assets/img/10.jpg
+# img: assets/img/10.jpg
 importance: 5
 category: Research & ML
 ---
