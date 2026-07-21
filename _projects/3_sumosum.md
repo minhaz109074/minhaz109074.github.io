@@ -2,7 +2,7 @@
 layout: page
 title: SumoSum - AI-Powered Business Forecasting
 description: An AI-driven financial planning platform that generates multi-year business projections from free-text inputs using GPT.
-img: assets/img/8.jpg
+# img: assets/img/8.jpg
 importance: 3
 category: Software Engineering
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: Caboodle - Sales Enablement Platform
 description: All-in-one sales enablement platform for natural product sales teams, with bulk data processing and analytics.
-img: assets/img/4.jpg
+# img: assets/img/4.jpg
 importance: 11
 category: Software Engineering
 ---

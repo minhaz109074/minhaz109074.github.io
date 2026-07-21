@@ -2,7 +2,7 @@
 layout: page
 title: Transcom Digital
 description: Backend development for one of Bangladesh's leading premium multi-brand electronics e-commerce platforms.
-img: assets/img/7.jpg
+# img: assets/img/7.jpg
 importance: 2
 category: Software Engineering
 ---

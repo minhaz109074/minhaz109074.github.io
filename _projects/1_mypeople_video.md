@@ -2,7 +2,7 @@
 layout: page
 title: MyPeople Video Service
 description: Adaptive streaming pipeline with AI-powered content discovery and personalized recommendations for a social media platform.
-img: assets/img/6.jpg
+# img: assets/img/6.jpg
 importance: 1
 category: Software Engineering
 ---

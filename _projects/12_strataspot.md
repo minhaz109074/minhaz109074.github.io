@@ -2,7 +2,7 @@
 layout: page
 title: StrataSpot - Residential Strata Management
 description: Maintained and enhanced a residential strata management platform built on nopCommerce for Australian clients.
-img: assets/img/5.jpg
+# img: assets/img/5.jpg
 importance: 12
 category: Software Engineering
 ---

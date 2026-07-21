@@ -105,6 +105,17 @@ I am open to collaborating and discussing any exciting research that can help so
       height: clamp(8rem, 50vw, 12rem);
     }
   }
+
+  .post-title {
+    font-weight: 700;
+    font-size: 2.75rem;
+  }
+
+  @media (max-width: 48rem) {
+    .post-title {
+      font-size: 2.25rem;
+    }
+  }
 </style>
 
 <div class="slideshow-container">

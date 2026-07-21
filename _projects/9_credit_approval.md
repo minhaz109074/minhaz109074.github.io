@@ -2,7 +2,7 @@
 layout: page
 title: Credit Approval Prediction
 description: Supervised and semi-supervised ML models for credit approval prediction using classical and fuzzy classifiers.
-img: assets/img/2.jpg
+# img: assets/img/2.jpg
 importance: 9
 category: Research & ML
 ---

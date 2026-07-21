@@ -2,7 +2,7 @@
 layout: page
 title: Traffic Pattern Analysis - DhakaAI Challenge
 description: Object detection models trained and evaluated to analyze vehicle traffic patterns in Bangladesh's first international AI traffic detection competition.
-img: assets/img/1.jpg
+# img: assets/img/1.jpg
 importance: 8
 category: Research & ML
 ---

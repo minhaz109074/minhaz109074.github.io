@@ -6,8 +6,8 @@ title: Minhazul Abedin # the website title (if blank, full name will be used ins
 first_name: Minhazul
 middle_name: 
 last_name: Abedin
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+# contact_note: >
+#   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Software Engineer at AIT Inc with expertise in .NET backend systems, microservices, and AI/ML research.
 footer_text: >
