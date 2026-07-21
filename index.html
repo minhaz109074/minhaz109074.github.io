@@ -77,6 +77,17 @@
       height: clamp(8rem, 50vw, 12rem);
     }
   }
+
+  .post-title {
+    font-weight: 700;
+    font-size: 2.75rem;
+  }
+
+  @media (max-width: 48rem) {
+    .post-title {
+      font-size: 2.25rem;
+    }
+  }
 </style> <div class="slideshow-container"> <div class="mySlides" style="display: block;"> <img src="/assets/img/achievements/01.jpg" alt="AIT Agile Transformation Workshop"> </div> <div class="mySlides"> <img src="/assets/img/achievements/02.jpg" alt="Best Project Award"> </div> <div class="mySlides"> <img src="/assets/img/achievements/03.jpg" alt="3rd Work Anniversary"> </div> <div class="mySlides"> <img src="/assets/img/achievements/04.jpg" alt="ICMTBI 2021 Certificate"> </div> <div class="mySlides"> <img src="/assets/img/achievements/05.jpg" alt="BDML Workshop"> </div> <a class="slideshow-prev" onclick="plusSlides(-1)">❮</a> <a class="slideshow-next" onclick="plusSlides(1)">❯</a> </div> <script>
   let slideIndex = 0;
   let slideTimer;
@@ -131,7 +142,7 @@
   <span class="na">author</span> <span class="p">=</span> <span class="s">{Abedin, M. M.}</span><span class="p">,</span>
   <span class="na">year</span> <span class="p">=</span> <span class="s">{2021}</span><span class="p">,</span>
   <span class="na">note</span> <span class="p">=</span> <span class="s">{Writing Sample}</span><span class="p">,</span>
-<span class="p">}</span></code></pre></figure> </div> </div> </div> </li> </ol> </div> <div class="social"> <div class="contact-icons"> <a href="/assets/rendercv/rendercv_output/Minhazul_Abedin_CV.pdf" title="Cv pdf"><i class="ai ai-cv"></i></a> <a href="mailto:minhazul.abedin.se@gmail.com" title="Email"><i class="fa-solid fa-envelope"></i></a> <a href="https://github.com/minhaz109074" title="Github username" rel="external nofollow noopener" target="_blank"><i class="fa-brands fa-github"></i></a> <a href="https://www.linkedin.com/in/minhazul-abedin" title="Linkedin username" rel="external nofollow noopener" target="_blank"><i class="fa-brands fa-linkedin"></i></a> <a href="https://scholar.google.com/citations?user=jgAboGcAAAAJ" title="Scholar userid" rel="external nofollow noopener" target="_blank"><i class="ai ai-google-scholar"></i></a> <a href="/feed.xml" title="Rss icon"><i class="fa-solid fa-square-rss"></i></a> </div> <div class="contact-note">You can even add a little note about which of these is the best way to reach you. </div> </div> </article> </div> </div> <footer class="fixed-bottom" role="contentinfo"> <div class="container mt-0"> © Copyright 2026 Minhazul Abedin. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>. Photos from <a href="https://unsplash.com" target="_blank" rel="external nofollow noopener">Unsplash</a>. </div> </footer> <script>
+<span class="p">}</span></code></pre></figure> </div> </div> </div> </li> </ol> </div> <div class="social"> <div class="contact-icons"> <a href="mailto:minhazul.abedin.se@gmail.com" title="Email"><i class="fa-solid fa-envelope"></i></a> <a href="https://github.com/minhaz109074" title="Github username" rel="external nofollow noopener" target="_blank"><i class="fa-brands fa-github"></i></a> <a href="https://www.linkedin.com/in/minhazul-abedin-1b5b2b1ab" title="Linkedin username" rel="external nofollow noopener" target="_blank"><i class="fa-brands fa-linkedin"></i></a> <a href="https://scholar.google.com/citations?user=jgAboGcAAAAJ" title="Scholar userid" rel="external nofollow noopener" target="_blank"><i class="ai ai-google-scholar"></i></a> </div> <div class="contact-note"></div> </div> </article> </div> </div> <footer class="fixed-bottom" role="contentinfo"> <div class="container mt-0"> © Copyright 2026 Minhazul Abedin. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>. Photos from <a href="https://unsplash.com" target="_blank" rel="external nofollow noopener">Unsplash</a>. </div> </footer> <script>
   window.alFolio = {
     compatBootstrap: false
   };
@@ -619,13 +630,6 @@ ninja.data = [{
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
-        id: 'social-cv',
-        title: 'CV',
-        section: 'Socials',
-        handler: () => {
-          window.open("/assets/rendercv/rendercv_output/Minhazul_Abedin_CV.pdf", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
@@ -644,7 +648,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/minhazul-abedin", "_blank");
+          window.open("https://www.linkedin.com/in/minhazul-abedin-1b5b2b1ab", "_blank");
         },
       },{
         id: 'social-scholar',
@@ -652,13 +656,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=jgAboGcAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
         },
       },{
       id: 'light-theme',
