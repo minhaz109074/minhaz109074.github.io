@@ -37,10 +37,6 @@ nav_order: 5
     color: var(--global-theme-color);
   }
 
-  .aw-certs .aw-title {
-    font-size: 1.1rem;
-  }
-
   .aw-awards .aw-badge,
   .aw-certs .aw-badge {
     background-color: var(--global-theme-color);
@@ -96,7 +92,7 @@ nav_order: 5
     <div class="card-body p-0">
       <div class="d-flex flex-column flex-md-row justify-content-between align-items-start align-items-md-center mb-2">
         <h4 class="card-title font-weight-bold mb-1 aw-title">Best Project Award - Audit Week</h4>
-        <span class="aw-badge">Feb 2025</span>
+        <span class="badge font-weight-bold text-uppercase align-middle">Feb 2025</span>
       </div>
       <h5 class="card-subtitle text-muted mb-2 font-weight-bold">AIT Inc / Astha IT</h5>
       <p class="card-text aw-text">
@@ -109,7 +105,7 @@ nav_order: 5
     <div class="card-body p-0">
       <div class="d-flex flex-column flex-md-row justify-content-between align-items-start align-items-md-center mb-2">
         <h4 class="card-title font-weight-bold mb-1 aw-title">Department Scholarship for Outstanding Academic Performance</h4>
-        <span class="aw-badge">2017 - 2022</span>
+        <span class="badge font-weight-bold text-uppercase align-middle">2017 - 2022</span>
       </div>
       <h5 class="card-subtitle text-muted mb-2 font-weight-bold">Noakhali Science and Technology University</h5>
       <p class="card-text aw-text">
@@ -122,7 +118,7 @@ nav_order: 5
     <div class="card-body p-0">
       <div class="d-flex flex-column flex-md-row justify-content-between align-items-start align-items-md-center mb-2">
         <h4 class="card-title font-weight-bold mb-1 aw-title">Intra-departmental Programming Contest - 3rd Place</h4>
-        <span class="aw-badge">2018</span>
+        <span class="badge font-weight-bold text-uppercase align-middle">2018</span>
       </div>
       <h5 class="card-subtitle text-muted mb-2 font-weight-bold">Department of CSTE, NSTU</h5>
       <p class="card-text aw-text">
@@ -135,7 +131,7 @@ nav_order: 5
     <div class="card-body p-0">
       <div class="d-flex flex-column flex-md-row justify-content-between align-items-start align-items-md-center mb-2">
         <h4 class="card-title font-weight-bold mb-1 aw-title">Board Merit Scholarship</h4>
-        <span class="aw-badge">2011</span>
+        <span class="badge font-weight-bold text-uppercase align-middle">2011</span>
       </div>
       <h5 class="card-subtitle text-muted mb-2 font-weight-bold">Board of Intermediate and Secondary Education, Bangladesh</h5>
       <p class="card-text aw-text">
@@ -153,7 +149,7 @@ nav_order: 5
     <div class="card-body p-0">
       <div class="d-flex flex-column flex-md-row justify-content-between align-items-start align-items-md-center mb-2">
         <h4 class="card-title font-weight-bold mb-1 aw-title">AI Engineer Core Track: LLM, RAG, QLoRA, Agents</h4>
-        <span class="aw-badge">2025</span>
+        <span class="badge font-weight-bold text-uppercase align-middle">2025</span>
       </div>
       <h5 class="card-subtitle text-muted mb-2 font-weight-bold">Udemy</h5>
       <p class="card-text aw-text">
@@ -167,7 +163,7 @@ nav_order: 5
     <div class="card-body p-0">
       <div class="d-flex flex-column flex-md-row justify-content-between align-items-start align-items-md-center mb-2">
         <h4 class="card-title font-weight-bold mb-1 aw-title">Deep Learning Specialization</h4>
-        <span class="aw-badge">Nov 2020</span>
+        <span class="badge font-weight-bold text-uppercase align-middle">Nov 2020</span>
       </div>
       <h5 class="card-subtitle text-muted mb-2 font-weight-bold">Coursera (DeepLearning.ai)</h5>
       <p class="card-text aw-text">
@@ -181,7 +177,7 @@ nav_order: 5
     <div class="card-body p-0">
       <div class="d-flex flex-column flex-md-row justify-content-between align-items-start align-items-md-center mb-2">
         <h4 class="card-title font-weight-bold mb-1 aw-title">Applied Machine Learning in Python</h4>
-        <span class="aw-badge">Jul 2020</span>
+        <span class="badge font-weight-bold text-uppercase align-middle">Jul 2020</span>
       </div>
       <h5 class="card-subtitle text-muted mb-2 font-weight-bold">Coursera (University of Michigan)</h5>
       <p class="card-text aw-text">
@@ -195,7 +191,7 @@ nav_order: 5
     <div class="card-body p-0">
       <div class="d-flex flex-column flex-md-row justify-content-between align-items-start align-items-md-center mb-2">
         <h4 class="card-title font-weight-bold mb-1 aw-title">Applied Plotting, Charting & Data Representation in Python</h4>
-        <span class="aw-badge">Jun 2020</span>
+        <span class="badge font-weight-bold text-uppercase align-middle">Jun 2020</span>
       </div>
       <h5 class="card-subtitle text-muted mb-2 font-weight-bold">Coursera (University of Michigan)</h5>
       <p class="card-text aw-text">
@@ -209,7 +205,7 @@ nav_order: 5
     <div class="card-body p-0">
       <div class="d-flex flex-column flex-md-row justify-content-between align-items-start align-items-md-center mb-2">
         <h4 class="card-title font-weight-bold mb-1 aw-title">Agile Transformation & Technical Workshops</h4>
-        <span class="aw-badge">Dec 2025</span>
+        <span class="badge font-weight-bold text-uppercase align-middle">Dec 2025</span>
       </div>
       <h5 class="card-subtitle text-muted mb-2 font-weight-bold">AIT Inc</h5>
       <p class="card-text aw-text">
