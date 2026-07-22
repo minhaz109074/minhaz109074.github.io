@@ -83,7 +83,7 @@ nav_order: 3
     <div class="card-body p-0">
       <div class="d-flex flex-column flex-md-row justify-content-between align-items-start align-items-md-center mb-2">
         <h4 class="card-title font-weight-bold mb-1 exp-title">Software Engineer II</h4>
-        <span class="exp-badge">Dec 2022 - Present</span>
+        <span class="badge font-weight-bold text-uppercase align-middle">Dec 2022 - Present</span>
       </div>
       <h5 class="card-subtitle text-muted mb-3 font-weight-bold">
         <a href="https://www.ait.inc" target="_blank" class="exp-company">AIT Inc</a> | Dhaka, Bangladesh
@@ -114,7 +114,7 @@ nav_order: 3
     <div class="card-body p-0">
       <div class="d-flex flex-column flex-md-row justify-content-between align-items-start align-items-md-center mb-2">
         <h4 class="card-title font-weight-bold mb-1 exp-title">Software Engineer Intern</h4>
-        <span class="exp-badge">Aug 2022 - Nov 2022</span>
+        <span class="badge font-weight-bold text-uppercase align-middle">Aug 2022 - Nov 2022</span>
       </div>
       <h5 class="card-subtitle text-muted mb-3 font-weight-bold">
         <a href="https://www.ait.inc" target="_blank" class="exp-company">AIT Inc</a> | Dhaka, Bangladesh
@@ -137,7 +137,7 @@ nav_order: 3
     <div class="card-body p-0">
       <div class="d-flex flex-column flex-md-row justify-content-between align-items-start align-items-md-center mb-2">
         <h4 class="card-title font-weight-bold mb-1 exp-title">Associate Member</h4>
-        <span class="exp-badge">Dec 2020 - Sep 2021</span>
+        <span class="badge font-weight-bold text-uppercase align-middle">Dec 2020 - Sep 2021</span>
       </div>
       <h5 class="card-subtitle text-muted mb-3 font-weight-bold">
         Darul Irfan Research Institute | Chattogram, Bangladesh
@@ -158,7 +158,7 @@ nav_order: 3
     <div class="card-body p-0">
       <div class="d-flex flex-column flex-md-row justify-content-between align-items-start align-items-md-center mb-2">
         <h4 class="card-title font-weight-bold mb-1 exp-title">Mentorship & Teaching Experience</h4>
-        <span class="exp-badge">Jan 2017 - Present</span>
+        <span class="badge font-weight-bold text-uppercase align-middle">Jan 2017 - Present</span>
       </div>
       <h5 class="card-subtitle text-muted mb-3 font-weight-bold">
         Professional Mentorship & Academic Instruction
