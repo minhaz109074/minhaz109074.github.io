@@ -22,15 +22,15 @@ latest_posts:
   enabled: false # disabled blog posts list
 ---
 
-I am a Software Engineer with over 3.5 years of experience, currently working at [AIT Inc](https://www.ait.inc), one of Bangladesh's leading software companies, headquartered in the USA, serving clients across the USA and Australia. I have experience building scalable backend systems following industry-standard architecture and best practices.
+I am a **Software Engineer** with over 3.5 years of experience, currently working at [AIT Inc](https://www.ait.inc), one of Bangladesh's leading software companies, headquartered in the USA, serving clients across the **USA and Australia**. I have experience building scalable backend systems following industry-standard architecture and best practices.
 
-I have hands-on experience integrating AI into production systems — for instance, I led the integration of an LLM-based automation pipeline into a budget forecasting platform, where manual data preparation was a major bottleneck for users. By automating this process, I reduced preparation time by over 90%, directly solving a recurring pain point for the users. In addition, I have experience building reel-like short-video features for a social media platform, using adaptive streaming technology, video transcoding, and a video recommendation engine. For this, I used vector similarity search, LLM integration, and a video-tagging pipeline that selects representative frames from long videos and feeds them into an LLM for semantic tagging, along with embedding generation using local LLMs.
+I have hands-on experience integrating AI into production systems — for instance, I led the integration of an **LLM-based automation pipeline** into a budget forecasting platform, where manual data preparation was a major bottleneck for users. By automating this process, I reduced **preparation time by over 90%**, directly solving a recurring pain point for the users. In addition, I have experience building reel-like short-video features for a social media platform, using **adaptive streaming technology**, video transcoding, and a **video recommendation engine**. For this, I used vector similarity search, LLM integration, and a video-tagging pipeline that selects representative frames from long videos and feeds them into an LLM for semantic tagging, along with embedding generation using local LLMs.
 
-My current research interest focuses on agentic automation to improve reliability and efficiency in real-world software systems. In addition, I am interested in computer vision and multimodal AI, particularly video-language understanding — how models can reason jointly over visual and textual signals for tasks like retrieval, tagging, and summarization. As a software engineer at heart, I care less about AI as an isolated research artifact and more about how it performs once it's under real engineering constraints — latency, scale, reliability.
+My current research interest focuses on **agentic automation** to improve reliability and efficiency in real-world software systems. In addition, I am interested in computer vision and **multimodal AI**, particularly video-language understanding — how models can reason jointly over visual and textual signals for tasks like retrieval, tagging, and summarization. As a software engineer at heart, I care less about AI as an isolated research artifact and more about how it performs once it's under real engineering constraints — latency, scale, reliability.
 
 I am open to collaborating and discussing any exciting research that can help solve real human pain points. Feel free to reach out!
 
-### Key Achievements
+### Highlights
 
 <style>
   .slideshow-container {

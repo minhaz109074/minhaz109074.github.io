@@ -47,6 +47,11 @@ nav_order: 5
     border-radius: 0.25rem;
   }
 
+  .badge {
+    color: var(--global-card-bg-color) !important;
+    background-color: var(--global-theme-color) !important
+  }
+
   .aw-awards .aw-text,
   .aw-certs .aw-text {
     color: var(--global-text-color);
@@ -142,7 +147,7 @@ nav_order: 5
 
 </div>
 
-<h3 class="mb-4 aw-heading">Certifications & Workshops</h3>
+<h3 class="mb-4 mt-5 pt-3 aw-heading">Certifications & Workshops</h3>
 <div class="aw-certs">
 
   <div class="card my-3 p-4 aw-card">

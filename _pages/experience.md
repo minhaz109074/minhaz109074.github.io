@@ -56,6 +56,11 @@ nav_order: 3
     padding-left: 1rem;
   }
 
+  .badge {
+    color: var(--global-card-bg-color) !important;
+    background-color: var(--global-theme-color) !important
+  }
+
   .experience .exp-skill {
     background-color: transparent;
     border: 0.0625rem solid var(--global-divider-color);
