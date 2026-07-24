@@ -47,11 +47,6 @@ nav_order: 5
     border-radius: 0.25rem;
   }
 
-  .badge {
-    color: var(--global-card-bg-color) !important;
-    background-color: var(--global-theme-color) !important
-  }
-
   .aw-awards .aw-text,
   .aw-certs .aw-text {
     color: var(--global-text-color);

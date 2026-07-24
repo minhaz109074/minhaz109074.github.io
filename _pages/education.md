@@ -46,11 +46,6 @@ nav_order: 4
     text-decoration: none;
   }
 
-  .badge {
-    color: var(--global-card-bg-color) !important;
-    background-color: var(--global-theme-color) !important
-  }
-
   .education .edu-link:hover {
     text-decoration: underline;
   }
