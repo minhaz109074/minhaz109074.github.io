@@ -142,7 +142,7 @@ nav_order: 5
 
 </div>
 
-<h3 class="mb-4 aw-heading">Certifications & Workshops</h3>
+<h3 class="mb-4 mt-5 pt-3 aw-heading">Certifications & Workshops</h3>
 <div class="aw-certs">
 
   <div class="card my-3 p-4 aw-card">
